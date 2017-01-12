@@ -1,5 +1,5 @@
 {
-  "name": "node-prender-pug",
+  "name": "prender-pug",
   "version": "0.1.0",
   "description": "Pug template engine integration for prender",
   "main": "index.js",
