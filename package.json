@@ -1,0 +1,29 @@
+{
+  "name": "node-prender-pug",
+  "version": "0.1.0",
+  "description": "Pug template engine integration for prender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etabits/node-prender-pug.git"
+  },
+  "keywords": [
+    "prender",
+    "pug",
+    "jade",
+    "transformer",
+    "prender-transformer"
+  ],
+  "author": "Hasan Arous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etabits/node-prender-pug/issues"
+  },
+  "homepage": "https://github.com/etabits/node-prender-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta6"
+  }
+}
